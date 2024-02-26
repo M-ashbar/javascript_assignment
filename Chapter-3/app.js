@@ -5,7 +5,7 @@ var numVisits = 1;
 
 
 
-var birthyear = 2009
+var birthyear = 2005
 
 document.write("My birth year is "+birthyear )
 document.write("Data type of my declared vairable is num")
