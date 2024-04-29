@@ -202,27 +202,27 @@
 //     "Total Words " + totalWords + " Total Letters " + totalLetters;
 // }
 
-//var box = document.getElementById("box");
+var box = document.getElementById("box");
 
-//console.log(box.style);
+console.log(box.style);
 
-//function changeRed() {
+function changeRed() {
 box.style.backgroundColor = "red";
-//}
-//function changeOrange() {
-//box.style.backgroundColor = "orange";
-//}
-//function changeBlue() {
-//box.style.backgroundColor = "blue";
-//}
-//function changeBlack() {
-//box.style.backgroundColor = "black";
-//}
-//function changeYellow() {
-//box.style.backgroundColor = "yellow";
-//}
+}
+function changeOrange() {
+box.style.backgroundColor = "orange";
+}
+function changeBlue() {
+box.style.backgroundColor = "blue";
+}
+function changeBlack() {
+box.style.backgroundColor = "black";
+}
+function changeYellow() {
+box.style.backgroundColor = "yellow";
+}
 
-//var h1 = document.getElementById("heading");
-//console.log(h1);
+var h1 = document.getElementById("heading");
+console.log(h1);
 
-//h1.innerText = "We are learning DOM";
+h1.innerText = "We are learning DOM";
